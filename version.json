@@ -1,0 +1,7 @@
+{
+  "versionCode": 8,
+  "versionName": "1.0.7",
+  "releaseNotes": "Gemini API Key 전역 비밀번호 마스킹 및 토글, 메모 롱클릭 다중 선택 모드, 일괄 휴지통 이동(30일 보관), GitHub 공식 CDN 영구 자동 업데이트",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.0.7/DriveMemo_v1.0.7.apk",
+  "isForceUpdate": false
+}
