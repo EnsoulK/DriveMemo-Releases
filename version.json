@@ -1,9 +1,9 @@
 {
-  "versionCode": 17,
-  "versionName": "1.1.7",
-  "releaseNotes": "[v1.1.7] 초고속 경량 STT 엔진(7배 가속) & 실시간 4단계 진행 모달 탑재\n• [초고속 STT 엔진 탑재] 1순위 모델을 20초대 초고속 'gemini-3.5-flash-lite'로 전진 배치 (기존 대비 최대 7배 가속화)\n• [실시간 4단계 진행 모달] STT 변환 시 실시간 초 단위 타이머(⏱️ 00:15) 및 4단계 애니메이션 프로그레스 바 팝업\n• [상태 투명화 & 백그라운드 전환] 파일 준비 ➔ 클라우드 전송 ➔ 화자/용어 분석 ➔ 회의록 생성 단계 실시간 시각화",
-  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.1.7/DriveMemo_v1.1.7.apk",
+  "versionCode": 18,
+  "versionName": "1.1.8",
+  "releaseNotes": "[v1.1.8] 회의록 화자 연속발언 자동통합, 선택 삽입, 음성 저장/공유 & 저장공간 최적화\n• [동일 화자 연속발언 자동 통합] 동일 화자의 인접한 발화를 하나의 완성된 문맥으로 깔끔하게 결합\n• [회의록 선택적 본문 삽입] 추출된 대화록 중 원하는 발화만 체크박스로 골라 본문에 삽입 (전체 선택/해제 토글 지원)\n• [음성 파일 기기 저장 & 공유] 녹음된 회의 음성을 다운로드 폴더에 저장(MediaStore)하거나 카카오톡/슬랙 등 외부 공유\n• [저장공간 관리 & 원터치 최적화] 음성/DB/캐시 사용량 실시간 확인 및 3대 청소(캐시 비우기, 휴지통 비우기, 고아 오디오 청소)",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.1.8/DriveMemo_v1.1.8.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-20T14:38:36.518088+00:00",
-  "sha256": "2491fa3c203b4c0356d59ff20cf5921c35382d0477fbbbbf79916434693a88cc"
+  "publishedAt": "2026-10-20T14:58:38.454928+00:00",
+  "sha256": "adf8ef839ff9918a494f2f24c3a85122331fad5957667991ba01ff5a7af98908"
 }
