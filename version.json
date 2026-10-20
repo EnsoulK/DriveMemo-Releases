@@ -1,9 +1,9 @@
 {
-  "versionCode": 20,
-  "versionName": "1.2.0",
-  "releaseNotes": "[v1.2.0] Moa 스타일 포스트잇(StaggeredGrid) 뷰 + 5대 감성 테마 + STT 듀얼 엔진 탑재\n• [폴더블 최적화 포스트잇 뷰] Moa 스타일 핀터레스트형 비대칭 그리드로 가독성 극대화 (Z Fold 커버 2열, 펼침 4~5열 자동 반응형)\n• [홈 상단 뷰 모드 즉시 전환] 리스트 뷰 vs 포스트잇 뷰를 상단 액션 아이콘으로 원터치 전환 및 설정 자동 저장\n• [5대 감성 테마 지원] Moa 고유 감성 테마 5종(다이어리, 미니멀 화이트, 세이지 그린, 미스트 블루, 미드나이트) 및 파스텔 배경 자동 바인딩\n• [STT 듀얼 엔진 선택 옵션] 설정 화면에서 'Gemini 2.5 Flash 고정밀 화자분리' vs 'Moa 방식 온디바이스 로컬(0원 오프라인)' 자유 선택\n• [Moa 16kHz 온디바이스 엔진] Android SpeechRecognizer + MediaCodec 실시간 PCM 스트리밍 오프라인 전사 파이프라인 구현",
-  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.2.0/DriveMemo_v1.2.0.apk",
+  "versionCode": 21,
+  "versionName": "1.2.1",
+  "releaseNotes": "[v1.2.1] STT 대화 핵심 종합 요약 고도화 & 카테고리별 시간 슬라이더 키워드 지식 그래프 탑재\n• [STT 대화 핵심 요약 파이프라인] 화자 대화록으로부터 핵심 안건 3줄, 화자별 주요 논의, 액션 아이템, 추천 태그 자동 도출\n• [대화록 상단 원터치 요약 카드] '요약만 본문 삽입', '요약+대화록 전체 삽입', '추천 태그 일괄 적용' 지원\n• [키워드 지식 그래프 (생각의 연결)] 동일 카테고리/폴더 내 키워드 간 동시 출현(Co-occurrence) 물리 시뮬레이션 인터랙티브 네트워크\n• [타임 슬라이더 컨트롤] 7일/14일/1개월/3개월/전체 기간 슬라이더 드래그를 통한 시기별 지식 구조 변화 탐색\n• [노드 터치 & 관련 메모 모아보기] 키워드 노드 터치 시 하단 시트에 해당 기간 내 관련 메모 목록 팝업 및 원터치 에디터 열람",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.2.1/DriveMemo_v1.2.1.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-20T22:18:45.795040+00:00",
-  "sha256": "4e0e0a2768adea1513e7f37f1b982143ba069c018a2fcb8adedcd0785d8b7c31"
+  "publishedAt": "2026-10-20T23:23:25.851919+00:00",
+  "sha256": "2142baa21155fd7f2893c2af3d739d1e8290fec0674ce01887c1adaaa432c06f"
 }
