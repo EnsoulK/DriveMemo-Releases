@@ -1,9 +1,9 @@
 {
-  "versionCode": 16,
-  "versionName": "1.1.6",
-  "releaseNotes": "[v1.1.6] 반도체 품질 & 엔터프라이즈 실무 적응형 음성 회의록 & AI 요약 탑재\n• [반도체 품질/FA/신뢰성 특화 전사] EUV, HBM3e, 8D 리포트, Cpk, FIB, TEM, 랏 홀드(Lot Hold), 딜라미네이션, RMA 등 실무 혼용형 정밀 전사\n• [사내 시스템 & 사무 협업 언어 지원] MES, QMS, ERP, YMS, SPC, Action Item, TAT, R&R, Align 등 비즈니스 어휘 완벽 인식\n• [완전 자동 적응형 AI 스마트 요약] 회의 맥락 자동 판별 ➔ 품질 회의 시 [품질 이슈 / 원인 분석 & 신뢰성 / 조치 계획 & R&R]로 자동 구조화 전환",
-  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.1.6/DriveMemo_v1.1.6.apk",
+  "versionCode": 17,
+  "versionName": "1.1.7",
+  "releaseNotes": "[v1.1.7] 초고속 경량 STT 엔진(7배 가속) & 실시간 4단계 진행 모달 탑재\n• [초고속 STT 엔진 탑재] 1순위 모델을 20초대 초고속 'gemini-3.5-flash-lite'로 전진 배치 (기존 대비 최대 7배 가속화)\n• [실시간 4단계 진행 모달] STT 변환 시 실시간 초 단위 타이머(⏱️ 00:15) 및 4단계 애니메이션 프로그레스 바 팝업\n• [상태 투명화 & 백그라운드 전환] 파일 준비 ➔ 클라우드 전송 ➔ 화자/용어 분석 ➔ 회의록 생성 단계 실시간 시각화",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.1.7/DriveMemo_v1.1.7.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-20T14:20:39.332728+00:00",
-  "sha256": "10e75d237aad6a47fd18aa0cfaae172b09724cfa6a96ac107d8b1608ad7e562b"
+  "publishedAt": "2026-10-20T14:38:36.518088+00:00",
+  "sha256": "2491fa3c203b4c0356d59ff20cf5921c35382d0477fbbbbf79916434693a88cc"
 }
