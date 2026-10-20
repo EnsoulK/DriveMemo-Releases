@@ -1,9 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "1.1.0",
-  "releaseNotes": "[v1.1.0] 상용 프리미엄 디자인 리뉴얼 & 개별 금고 메모 대규모 업데이트\n• [디자인 전면 혁신] Craft & Apple Notes 스타일의 웜 모노크롬 슬레이트 + 앰버 골드 시그니처 테마 구축\n• [모던 플로팅 헤더] 상단 4단 중첩 클러터 전면 제거, 단일 플로팅 인셋 검색 헤더 도입으로 본문 뷰포트 극대화\n• [개별 메모 생체 잠금 (금고)] 민감 메모 2차 암호화/생체 인증 잠금 지원 (세션 유지 및 본문 마스킹)\n• [안정성 & 결함 완결] Android 13/14 마이크 런타임 권한 결함 수정 및 비정상 종료 100% 방어\n• [초슬림 54dp 리스트 & 1줄 제목] 한눈에 많은 메모를 탐색할 수 있는 초고밀도 리스트 뷰포트\n• [폴더 관리 & 멀티 내보내기] 드로어 폴더 트리 분류 및 MD, TXT, 반응형 HTML 원터치 내보내기 지원",
-  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.1.0/DriveMemo_v1.1.0.apk",
+  "versionCode": 11,
+  "versionName": "1.1.1",
+  "releaseNotes": "[v1.1.1] 음성 녹음 안정화 & 다중 잠금 해제 & 본문 뷰포트 극대화\n• [음성 녹음 크래시 원천 차단] EditorScreen 마이크 권한 요청 런처 장착 및 AudioRecorderManager 예외 방어벽 구축\n• [다중 잠금 해제 통합 지원] 지문 단독 잠금 탈피 ➔ 지문, 얼굴, 패턴, PIN, 비밀번호 통합 잠금 해제 지원\n• [체크리스트 제거 & 뷰포트 극대화] 하단 번잡한 체크리스트 섹션 제거로 본문 글쓰기 영역 화면 100% 확장\n• [금고 메모 필터 칩] 메인 상단 카테고리에 '금고 메모 🔒' 칩 도입으로 잠긴 메모 원터치 탐색 지원",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.1.1/DriveMemo_v1.1.1.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-20T03:45:55.302258+00:00",
-  "sha256": "040358aeebadc08c83b90e7d5c4974a75161a5f83595139298dd695e48874332"
+  "publishedAt": "2026-10-20T10:24:40.030837+00:00",
+  "sha256": "1133882bf21d189521410d42dcd552367d2a0b1654d4598e0bd687853ebfffac"
 }
