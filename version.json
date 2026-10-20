@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
-  "versionName": "1.1.4",
-  "releaseNotes": "[v1.1.4] Gemini REST API 화자 분리 전사 파이프라인 규격 정상화\n• [REST API 페이로드 규격 정상화] Google 공식 CamelCase 명세 준수 (`inlineData`, `mimeType`)로 HTTP 400 전사 오류 완전 해결\n• [JSON 응답 강제 최적화] `responseMimeType: application/json` 주입으로 마크다운 백틱 없는 순수 화자 분리 JSON 즉각 수신\n• [구글 원문 상세 오류 다이얼로그] API 키 만료, 할당량 초과 등 구글 서버 원문 에러 상세 안내 및 원터치 재등록 지원",
-  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.1.4/DriveMemo_v1.1.4.apk",
+  "versionCode": 15,
+  "versionName": "1.1.5",
+  "releaseNotes": "[v1.1.5] Google Gemini 정식 서비스 모델(3.8 Flash) 엔드포인트 전면 전환\n• [엔드포인트 실측 갱신] 폐기된 구형 1.5-flash(404 에러 원인) ➔ 현재 정식 지원되는 최신 'gemini-3.8-flash'로 100% 교체 완료\n• [멀티 모델 페일오버] 구글 서버 일시적 과부하(503) 발생 시 'gemini-3.5-flash'로 자동 즉각 폴백 연동\n• [AI 요약 엔진 동기화] HybridAiSummarizer 클라우드 요약 엔드포인트도 gemini-3.8-flash로 일괄 동기화 완료",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.1.5/DriveMemo_v1.1.5.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-20T13:33:31.105904+00:00",
-  "sha256": "7617eb4def5b23c8c349c9f89367ddadbd722ea9aef6ecdbf9af84ea555bf505"
+  "publishedAt": "2026-10-20T13:49:17.035570+00:00",
+  "sha256": "0628aaeee375f37cbc37a4494e3f53641614634bd29a805779c23536fb3b9700"
 }
