@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "1.1.5",
-  "releaseNotes": "[v1.1.5] Google Gemini 정식 서비스 모델(3.8 Flash) 엔드포인트 전면 전환\n• [엔드포인트 실측 갱신] 폐기된 구형 1.5-flash(404 에러 원인) ➔ 현재 정식 지원되는 최신 'gemini-3.8-flash'로 100% 교체 완료\n• [멀티 모델 페일오버] 구글 서버 일시적 과부하(503) 발생 시 'gemini-3.5-flash'로 자동 즉각 폴백 연동\n• [AI 요약 엔진 동기화] HybridAiSummarizer 클라우드 요약 엔드포인트도 gemini-3.8-flash로 일괄 동기화 완료",
-  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.1.5/DriveMemo_v1.1.5.apk",
+  "versionCode": 16,
+  "versionName": "1.1.6",
+  "releaseNotes": "[v1.1.6] 반도체 품질 & 엔터프라이즈 실무 적응형 음성 회의록 & AI 요약 탑재\n• [반도체 품질/FA/신뢰성 특화 전사] EUV, HBM3e, 8D 리포트, Cpk, FIB, TEM, 랏 홀드(Lot Hold), 딜라미네이션, RMA 등 실무 혼용형 정밀 전사\n• [사내 시스템 & 사무 협업 언어 지원] MES, QMS, ERP, YMS, SPC, Action Item, TAT, R&R, Align 등 비즈니스 어휘 완벽 인식\n• [완전 자동 적응형 AI 스마트 요약] 회의 맥락 자동 판별 ➔ 품질 회의 시 [품질 이슈 / 원인 분석 & 신뢰성 / 조치 계획 & R&R]로 자동 구조화 전환",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.1.6/DriveMemo_v1.1.6.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-20T13:49:17.035570+00:00",
-  "sha256": "0628aaeee375f37cbc37a4494e3f53641614634bd29a805779c23536fb3b9700"
+  "publishedAt": "2026-10-20T14:20:39.332728+00:00",
+  "sha256": "10e75d237aad6a47fd18aa0cfaae172b09724cfa6a96ac107d8b1608ad7e562b"
 }
