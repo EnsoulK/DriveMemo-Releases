@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "releaseNotes": "[v1.0.8] UI/UX 모던 미니멀리즘 고도화\n• Apple Notes / Notion 스타일의 모던 미니멀 적응형 테마 적용\n• 메모 카드 테마별 0.5dp 미세 외곽선 및 은은한 좌측 액센트 바 도입\n• 상단 인라인 스마트 카테고리 필터 칩바 [전체 / 상단 고정 📌 / 할 일 ✅ / 회의 음성 🎙️] 탑재\n• 차분하고 세련된 6대 에디토리얼 파스텔 컬러 팔레트 정제\n• 타이포그래피 계층화 및 할 일/음성 뱃지 가독성 최적화",
-  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.0.8/DriveMemo_v1.0.8.apk",
+  "versionCode": 10,
+  "versionName": "1.1.0",
+  "releaseNotes": "[v1.1.0] 상용 프리미엄 디자인 리뉴얼 & 개별 금고 메모 대규모 업데이트\n• [디자인 전면 혁신] Craft & Apple Notes 스타일의 웜 모노크롬 슬레이트 + 앰버 골드 시그니처 테마 구축\n• [모던 플로팅 헤더] 상단 4단 중첩 클러터 전면 제거, 단일 플로팅 인셋 검색 헤더 도입으로 본문 뷰포트 극대화\n• [개별 메모 생체 잠금 (금고)] 민감 메모 2차 암호화/생체 인증 잠금 지원 (세션 유지 및 본문 마스킹)\n• [안정성 & 결함 완결] Android 13/14 마이크 런타임 권한 결함 수정 및 비정상 종료 100% 방어\n• [초슬림 54dp 리스트 & 1줄 제목] 한눈에 많은 메모를 탐색할 수 있는 초고밀도 리스트 뷰포트\n• [폴더 관리 & 멀티 내보내기] 드로어 폴더 트리 분류 및 MD, TXT, 반응형 HTML 원터치 내보내기 지원",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.1.0/DriveMemo_v1.1.0.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-19T07:30:53.885271+00:00",
-  "sha256": "f32ba24a5a79621cf659809b2dbe1895224d7213977af844f62509c945724673"
+  "publishedAt": "2026-10-20T03:45:55.302258+00:00",
+  "sha256": "040358aeebadc08c83b90e7d5c4974a75161a5f83595139298dd695e48874332"
 }
