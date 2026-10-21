@@ -4,6 +4,6 @@
   "releaseNotes": "[v1.2.2] STT 404 자가 치유(Self-Healing) & Moa 3D 우주 지식 지도 엔진 전면 이식\n• [STT 404 장애 원천 해결 & Self-Healing] v1/v1beta 교차 지원 + 계정별 가용 모델 실시간 동적 탐색(Self-Discovery) 탑재\n• [모아 기기 내 엔진 1초 즉시 전환] Gemini 장애 발생 시 다이얼로그에서 '0원 무비용 오프라인 모아 로컬' 원터치 즉시 전사 지원\n• [Moa 원본 3D 천구 지식 지도 엔진 전면 이식] 3D 피보나치 구체 나선 배치 + Yaw/Pitch/Roll 3D 궤도 회전(Orbit) + 3축 천구 링 렌더링\n• [전역 지침 준수: 임의 하드코딩 100% 완전 삭제] 요청하지 않은 품질관리/공정회의 등 유령 카테고리를 전면 제거하고 실제 사용자 데이터만 동적 추출\n• [Moa 감성 펄스 파동 녹음 다이얼로그 (RecordingDialog)] 거대한 동심원 파동 캔버스 애니메이션 + 원터치 대형 완료 버튼 탑재\n• [오디오 플레이어 배속 및 스킵 탑재] 에디터 재생기에서 1.0x / 1.5x / 2.0x 원터치 배속 토글 및 -5초/+5초 정밀 스킵 지원\n• [메인 화면 상단바 클린 UX 정돈] 과밀 아이콘 정리로 쾌적한 검색창 영역 및 여백 확보",
   "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.2.2/DriveMemo_v1.2.2.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-21T04:45:54.696036+00:00",
+  "publishedAt": "2026-10-21T05:31:07.695973+00:00",
   "sha256": "fb5f0d891ed781da4a5e3db6645bb9fbfb68d4123609422613b3c032f7d27e87"
 }
