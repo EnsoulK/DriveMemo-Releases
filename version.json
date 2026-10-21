@@ -1,9 +1,9 @@
 {
-  "versionCode": 26,
-  "versionName": "1.2.6",
-  "releaseNotes": "[v1.2.6] 모아(Moa) 오리지널 5대 감성 테마 100% 무결성 복원 & 가독성 완결\n• [모아 오리지널 5대 테마 팔레트 100% 일치] 다이어리(크림 한지 #F8F4EC + 따뜻한 먹색 #39332E + 테라코타 #AA593F), 세이지 그린, 미스트 블루, 미드나이트, 미니멀 화이트 원본 스펙 완전 복원\n• [글로벌 컨텐트 컬러 주입 (LocalContentColor)] 배경과 글자가 겹쳐 보이지 않던 치명적 결함을 원천 해결, 모든 화면에서 100% 또렷한 명암비와 가독성 보장\n• [다크 모드 정상화] 다크 모드 활성화 시 모아 공식 완성형 다크 테마인 NIGHT(미드나이트: 밤하늘 네이비 #171C29 + 소프트 라벤더 #C3B6F4)로 자연스럽게 전환\n• [메모 카드 및 종이 질감 원본 동기화] 카드 배경을 정갈한 모아 서피스로 복원하고, 다이어리 테마에서 9dp 미세 점 격자(PaperBackdrop)를 아날로그 감성으로 렌더링",
-  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.2.6/DriveMemo_v1.2.6.apk",
+  "versionCode": 27,
+  "versionName": "1.2.7",
+  "releaseNotes": "[v1.2.7] 다크 모드 딥 다크 배경 보정 & 환경설정 메뉴/텍스트 명암비 및 가독성 완결\n• [다크 모드 딥 다크 배경 보정] 다크 모드 시 어떤 테마를 선택하든 배경이 밝게 노출되던 결함을 원천 해결하고 깊고 편안한 딥 다크 배경(#181513, #111713, #121622 등) 적용\n• [환경설정 메뉴 가독성 완결] 환경설정 내 모든 섹션 서피스를 배경보다 명확히 밝은 표면(#24201D 등)과 테두리로 분리하고, 텍스트가 배경에 묻히지 않도록 고대비 컬러(onSurface, onPrimaryContainer) 전면 매핑\n• [필터 칩 및 테마 선택 카드 시인성 극대화] 선택/비선택 상태별 명확한 배경 틴트와 폰트 색상을 바인딩하여 어떤 화면에서도 또렷한 텍스트 가독성 보장",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.2.7/DriveMemo_v1.2.7.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-21T13:14:03.847460+00:00",
-  "sha256": "9e4f94aff1ede0c80561f8c6ad926d21782944ca73109b3e4341d28c8ec25eef"
+  "publishedAt": "2026-10-21T13:23:54.656346+00:00",
+  "sha256": "e8479452bfac6734842ae9109759aade0bf10411f28044629d0f847bed141bd3"
 }
