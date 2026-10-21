@@ -1,9 +1,9 @@
 {
-  "versionCode": 21,
-  "versionName": "1.2.1",
-  "releaseNotes": "[v1.2.1] STT 대화 핵심 종합 요약 고도화 & 카테고리별 시간 슬라이더 키워드 지식 그래프 탑재\n• [STT 대화 핵심 요약 파이프라인] 화자 대화록으로부터 핵심 안건 3줄, 화자별 주요 논의, 액션 아이템, 추천 태그 자동 도출\n• [대화록 상단 원터치 요약 카드] '요약만 본문 삽입', '요약+대화록 전체 삽입', '추천 태그 일괄 적용' 지원\n• [키워드 지식 그래프 (생각의 연결)] 동일 카테고리/폴더 내 키워드 간 동시 출현(Co-occurrence) 물리 시뮬레이션 인터랙티브 네트워크\n• [타임 슬라이더 컨트롤] 7일/14일/1개월/3개월/전체 기간 슬라이더 드래그를 통한 시기별 지식 구조 변화 탐색\n• [노드 터치 & 관련 메모 모아보기] 키워드 노드 터치 시 하단 시트에 해당 기간 내 관련 메모 목록 팝업 및 원터치 에디터 열람",
-  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.2.1/DriveMemo_v1.2.1.apk",
+  "versionCode": 22,
+  "versionName": "1.2.2",
+  "releaseNotes": "[v1.2.2] STT 404 자가 치유(Self-Healing) & Moa 3D 우주 지식 지도 엔진 전면 이식\n• [STT 404 장애 원천 해결 & Self-Healing] v1/v1beta 교차 지원 + 계정별 가용 모델 실시간 동적 탐색(Self-Discovery) 탑재\n• [모아 기기 내 엔진 1초 즉시 전환] Gemini 장애 발생 시 다이얼로그에서 '0원 무비용 오프라인 모아 로컬' 원터치 즉시 전사 지원\n• [Moa 원본 3D 천구 지식 지도 엔진 전면 이식] 3D 피보나치 구체 나선 배치 + Yaw/Pitch/Roll 3D 궤도 회전(Orbit) + 3축 천구 링 렌더링\n• [전역 지침 준수: 임의 하드코딩 100% 완전 삭제] 요청하지 않은 품질관리/공정회의 등 유령 카테고리를 전면 제거하고 실제 사용자 데이터만 동적 추출\n• [Moa 감성 펄스 파동 녹음 다이얼로그 (RecordingDialog)] 거대한 동심원 파동 캔버스 애니메이션 + 원터치 대형 완료 버튼 탑재\n• [오디오 플레이어 배속 및 스킵 탑재] 에디터 재생기에서 1.0x / 1.5x / 2.0x 원터치 배속 토글 및 -5초/+5초 정밀 스킵 지원\n• [메인 화면 상단바 클린 UX 정돈] 과밀 아이콘 정리로 쾌적한 검색창 영역 및 여백 확보",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.2.2/DriveMemo_v1.2.2.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-20T23:23:25.851919+00:00",
-  "sha256": "2142baa21155fd7f2893c2af3d739d1e8290fec0674ce01887c1adaaa432c06f"
+  "publishedAt": "2026-10-21T04:45:54.696036+00:00",
+  "sha256": "fb5f0d891ed781da4a5e3db6645bb9fbfb68d4123609422613b3c032f7d27e87"
 }
