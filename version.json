@@ -1,9 +1,9 @@
 {
-  "versionCode": 22,
-  "versionName": "1.2.2",
-  "releaseNotes": "[v1.2.2] STT 404 자가 치유(Self-Healing) & Moa 3D 우주 지식 지도 엔진 전면 이식\n• [STT 404 장애 원천 해결 & Self-Healing] v1/v1beta 교차 지원 + 계정별 가용 모델 실시간 동적 탐색(Self-Discovery) 탑재\n• [모아 기기 내 엔진 1초 즉시 전환] Gemini 장애 발생 시 다이얼로그에서 '0원 무비용 오프라인 모아 로컬' 원터치 즉시 전사 지원\n• [Moa 원본 3D 천구 지식 지도 엔진 전면 이식] 3D 피보나치 구체 나선 배치 + Yaw/Pitch/Roll 3D 궤도 회전(Orbit) + 3축 천구 링 렌더링\n• [전역 지침 준수: 임의 하드코딩 100% 완전 삭제] 요청하지 않은 품질관리/공정회의 등 유령 카테고리를 전면 제거하고 실제 사용자 데이터만 동적 추출\n• [Moa 감성 펄스 파동 녹음 다이얼로그 (RecordingDialog)] 거대한 동심원 파동 캔버스 애니메이션 + 원터치 대형 완료 버튼 탑재\n• [오디오 플레이어 배속 및 스킵 탑재] 에디터 재생기에서 1.0x / 1.5x / 2.0x 원터치 배속 토글 및 -5초/+5초 정밀 스킵 지원\n• [메인 화면 상단바 클린 UX 정돈] 과밀 아이콘 정리로 쾌적한 검색창 영역 및 여백 확보",
-  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.2.2/DriveMemo_v1.2.2.apk",
+  "versionCode": 23,
+  "versionName": "1.2.3",
+  "releaseNotes": "[v1.2.3] 7대 결함 완결: Moa 3D 우주 지식 성단 + 아날로그 종이 질감(PaperBackdrop) + Fold 360dp 2단 분리 + 개조식 회의록 요약\n• [AI 요약 본문 슬라이딩 & 아코디언] 긴 회의 요약 본문도 heightIn(max 240dp) 수직 스크롤로 매끄럽게 탐색 및 원터치 접기/펼치기 지원\n• [STT 진행 다이얼로그 320dp 규격화] 폴더블 화면 비율 왜곡 원천 해결 및 비도메인 하드코딩 문구 완전 삭제\n• [AI 요약 개조식 회의록 서식 정형화] 1. 2. 3. 번호 체계 + • 불릿 기호 + 줄임체(~함, ~결정, ~추진 예정) 표준 회의록 포맷 적용\n• [폴드 외장 화면(360dp) 간섭/찌그러짐 원천 차단] 상단 헤더 컨트롤러를 재생 바(1단)와 액션 바(2단)로 완전 분리 및 가로 스크롤 가드 탑재\n• [Moa 원본 3D 지식 성단 그래픽 복원] 2.5dp 초미세 별빛 포인트(Dot) + Z축 깊이 연동 은은한 연결선 + 우주 공간 부유 라벨 텍스트 적용\n• [수학적 아날로그 종이 질감 (PaperBackdrop)] 비트맵 없이 가볍고 정밀한 수학적 지그재그 페이퍼 그레인 배경 전면 바인딩\n• [키워드 지식 그래프 대상 카테고리(폴더) 선택 탑재] 실제 사용자 폴더 및 대표 태그별 3D 관계망 선택 필터링 완비",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.2.3/DriveMemo_v1.2.3.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-21T05:31:07.695973+00:00",
-  "sha256": "fb5f0d891ed781da4a5e3db6645bb9fbfb68d4123609422613b3c032f7d27e87"
+  "publishedAt": "2026-10-21T05:31:48.539406+00:00",
+  "sha256": "51e760c84e127af2c4e4515aa776107fcdf13389512c0130e04efc7eae7f7c4b"
 }
