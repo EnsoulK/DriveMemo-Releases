@@ -1,9 +1,9 @@
 {
-  "versionCode": 36,
-  "versionName": "1.3.6",
-  "releaseNotes": "[v1.3.6] 폴드 커버 드로어 하단 잘림 해결 & 3D 생각의 지도 시인성 전면 개편\n• [갤럭시 Z 폴드 커버 화면 드로어 최적화] 사이드 드로어 메뉴를 수직 스크롤(verticalScroll) 구조로 전환하고 내비게이션 바 안전 패딩을 적용하여 좁고 긴 커버 뷰포트에서도 하단 로그인/로그아웃 및 업데이트 버튼이 절대 잘리지 않도록 개선\n• [3D 생각의 지도 연결선 가시성 극대화] 연결선 색상을 고대비 primary 틴트로 교체하고 선 굵기를 2배 이상 보강하여 배경과 확실하게 분리\n• [생각의 지도 텍스트 헤일로(Halo) 듀얼 렌더링] 배경색 아웃라인 스트로크와 고대비 텍스트 본체의 이중 렌더링을 적용하여 어떤 테마/배경에서도 텍스트가 100% 또렷하게 보이도록 개선\n• [3D 별빛 노드 시인성 강화] 별빛 노드 외곽에 배경 대비 테두리 및 펄스 링을 보강하여 식별력 극대화",
-  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.3.6/DriveMemo_v1.3.6.apk",
+  "versionCode": 37,
+  "versionName": "1.3.7",
+  "releaseNotes": "[v1.3.7] 메모 절대 유실 방지(Zero Data Loss) 및 보안 무결성 가드 구축\n• [휴지통 30일 자동 삭제 워커 영구 폐기] 백그라운드 TrashPurgeWorker 자동 삭제를 전면 폐기하여 사용자 허가 없는 무단 삭제 100% 원천 차단 (휴지통 영구 안전 보존)\n• [임시 파일/캐시 청소 시 메모/오디오 물리적 격리] clearCache() 실행 시 메모 DB, 실제 영구 음성 파일, 백업 데이터(filesDir) 접근 원천 차단 및 고아 오디오 청소 시 최근 24시간 이내 생성 임시 파일 절대 보호\n• [휴지통 영구 삭제 2단계 보안 가드] 휴지통 내 개별 메모 영구 삭제 및 전체 비우기 시 '영구삭제' 텍스트 직접 입력 컨펌 게이트 적용 (실수 및 무단 삭제 100% 방지)\n• [저장공간 최적화 내 휴지통 비우기 안전 가드] 저장공간 관리 모달에서도 '영구삭제' 입력 확인 게이트 일원화 적용",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.3.7/DriveMemo_v1.3.7.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-24T22:03:42.411982+00:00",
-  "sha256": "9d9040c21c7a2ffa48dcdacbcb367435b739f40115f83b380234de2b26dd3509"
+  "publishedAt": "2026-10-24T22:18:52.896599+00:00",
+  "sha256": "1487b2b765ffbb2f54e5a6af6506d32c684a3ba6bce1d2f9312195857d693416"
 }
