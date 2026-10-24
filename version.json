@@ -1,9 +1,9 @@
 {
-  "versionCode": 28,
-  "versionName": "1.2.8",
-  "releaseNotes": "[v1.2.8] 다크 모드 초기화면 배경 누수 4중 원천 차단 완결\n• [PaperBackdrop 0x0 측정 원천 해결] Canvas 크기 기본 인자 fillMaxSize() 강제 부여로 종이 질감 캔버스 소멸 결함 완전 차단\n• [Android Window 레벨 다크 동기화] res/values-night/themes.xml 신설 및 Theme.kt SideEffect 내 decorView 백그라운드 컬러 실시간 동기화로 흰색 플래시/누수 0% 달성\n• [전 화면 루트 컨테이너 Surface 래핑] MainActivity 및 전 화면 최상위 Box에 background(colorScheme.background) 적용하여 투과 현상 영구 방어",
-  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.2.8/DriveMemo_v1.2.8.apk",
+  "versionCode": 29,
+  "versionName": "1.2.9",
+  "releaseNotes": "[v1.2.9] 세션 상태 복원 · 1열 아코디언 리스트 · 뷰어/에디터 분리 및 개별 글자 크기 고도화\n• [앱 실행 시 마지막 화면 상태 자동 복원] 사용자가 마지막으로 보던 보기 모드(포스트잇 vs 리스트)와 선택 폴더/카테고리를 100% 기억하여 앱 기동 시 즉시 원복\n• [리스트식 목록 1열 아코디언 및 제목 온전 노출] 리스트 모드 시 1행 1메모 단일 열 강제, 제목 말줄임표(...) 없이 100% 온전 노출, 카드 탭 시 인라인으로 본문 및 서식이 펼쳐지는 부드러운 아코디언 인터랙션 탑재 (더블탭 시 즉시 상세 진입)\n• [읽기 전용 뷰어 모드 & 고급 서식 에디터 분리] 기존 메모 진입 시 깔끔한 뷰어 모드 기본 제공 및 상단 A-/A+ 글자 크기 독립 조절기 탑재, 편집 모드 진입 시 선택영역 래핑 기반 볼드/이탤릭/취소선/밑줄/H1/H2/체크박스/불릿/인용 서식 툴바 지원",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.2.9/DriveMemo_v1.2.9.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-21T13:36:28.566713+00:00",
-  "sha256": "e652f9070869cb4159491ce97a51ea27097f6061fb21141eb11b0c15d79ef92d"
+  "publishedAt": "2026-10-24T05:44:44.645656+00:00",
+  "sha256": "a458acfac43feddcc6eb018d5f33a92e5d4dbec0a75d9bf65b08ee4e2c3c4ffe"
 }
