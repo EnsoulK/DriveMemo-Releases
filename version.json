@@ -1,9 +1,9 @@
 {
-  "versionCode": 29,
-  "versionName": "1.2.9",
-  "releaseNotes": "[v1.2.9] 세션 상태 복원 · 1열 아코디언 리스트 · 뷰어/에디터 분리 및 개별 글자 크기 고도화\n• [앱 실행 시 마지막 화면 상태 자동 복원] 사용자가 마지막으로 보던 보기 모드(포스트잇 vs 리스트)와 선택 폴더/카테고리를 100% 기억하여 앱 기동 시 즉시 원복\n• [리스트식 목록 1열 아코디언 및 제목 온전 노출] 리스트 모드 시 1행 1메모 단일 열 강제, 제목 말줄임표(...) 없이 100% 온전 노출, 카드 탭 시 인라인으로 본문 및 서식이 펼쳐지는 부드러운 아코디언 인터랙션 탑재 (더블탭 시 즉시 상세 진입)\n• [읽기 전용 뷰어 모드 & 고급 서식 에디터 분리] 기존 메모 진입 시 깔끔한 뷰어 모드 기본 제공 및 상단 A-/A+ 글자 크기 독립 조절기 탑재, 편집 모드 진입 시 선택영역 래핑 기반 볼드/이탤릭/취소선/밑줄/H1/H2/체크박스/불릿/인용 서식 툴바 지원",
-  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.2.9/DriveMemo_v1.2.9.apk",
+  "versionCode": 30,
+  "versionName": "1.3.0",
+  "releaseNotes": "[v1.3.0] 상용 메모장(Apple Notes/Notion) 수준 4대 에디터 고도화 완결\n• [초경량 40단계 Undo/Redo 매니저 탑재] 텍스트 입력 및 서식 변경을 안전하게 되돌리고 복원하는 실행 취소(Undo) 및 다시 실행(Redo) 도구 탑재\n• [스마트 목록 자동 연속 (Smart List Continuation)] 체크박스(- [ ]) 및 불릿(-) 작성 중 엔터 입력 시 새 줄에 기호 자동 삽입 및 빈 항목 탈출 지원\n• [뷰어 모드 인터랙티브 체크박스 직접 토글] 편집 모드 진입 없이 뷰어 화면에서 체크박스를 직접 터치하여 완료/해제 및 취소선 즉시 반영\n• [본문 내 실시간 단어 검색(Find & Jump) & 실시간 통계] 상단 검색바로 본문 내 단어 매칭 개수 및 이전/다음 이동 지원, 실시간 글자수 및 독서 시간 안내",
+  "downloadUrl": "https://github.com/EnsoulK/DriveMemo-Releases/releases/download/v1.3.0/DriveMemo_v1.3.0.apk",
   "isForceUpdate": false,
-  "publishedAt": "2026-10-24T05:44:44.645656+00:00",
-  "sha256": "a458acfac43feddcc6eb018d5f33a92e5d4dbec0a75d9bf65b08ee4e2c3c4ffe"
+  "publishedAt": "2026-10-24T05:52:53.620609+00:00",
+  "sha256": "b55ad68eb0b13c0e49e6a6c4b661d2da0d78fe920303d39715b21940b0f6b766"
 }
